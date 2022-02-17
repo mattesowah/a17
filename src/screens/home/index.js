@@ -4,7 +4,7 @@ import React from 'react'
 const HomeScreen = () => {
   return (
     <View>
-      <Text>index</Text>
+      <Text>not just a component</Text>
     </View>
   )
 }
